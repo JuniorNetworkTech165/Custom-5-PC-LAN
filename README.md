@@ -9,7 +9,7 @@ This lab project demonstrates a 5-PC Local Area Network (LAN) consisting of five
 - 5 x Ethernet Copper Straight-Through Cables.
 
 ## Network topology.
-![Network topology diagram](./https://github.com/JuniorNetworkTech165/Custom-5-PC-LAN/blob/main/Network%20topology.png?raw=true)
+![Network topology diagram](./Network-topology.png)
 
 ## IP Address Table.
 
