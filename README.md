@@ -4,6 +4,7 @@
 This lab project demonstrates a 5-PC Local Area Network (LAN) consisting of five end-user computers connected to a single central switch.
 
 ### Tools and components used.
+- **Cisco Packet Tracer** (Network Simulation Software)
 - 5 x PCs.
 - 1 x Switch.
 - 5 x Ethernet Copper Straight-Through Cables.
